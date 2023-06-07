@@ -14,5 +14,15 @@
 /frontend/coverage
 /frontend/data
 
+#added my part to ignore in frontend
+/frontend/src/components/somewhere-else
+/frontend/src/components/images
+
 # Ignore root-level node_modules directory
 /node_modules
+
+#Ignore other folders
+/errors
+/how_it_should_look
+/Task4
+MY_VERSION_OF_README.txt
